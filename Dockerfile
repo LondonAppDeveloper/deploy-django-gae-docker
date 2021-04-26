@@ -1,4 +1,5 @@
 FROM python:3.9-alpine
+LABEL maintainer="londonappdeveloper.com"
 
 COPY ./requirements.txt /requirements.txt
 COPY ./app /app
