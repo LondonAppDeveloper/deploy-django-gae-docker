@@ -1,0 +1,12 @@
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    background-color: #3d3d3d;
+}
+
+img {
+    border-radius: 3px;
+    border: 1px solid white;
+}
